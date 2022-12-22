@@ -1,0 +1,37 @@
+body{
+    background-color: orangered;
+}
+#header{
+    text-align: center;
+    font-size: 10rem;
+    color: whitesmoke;
+}
+a{
+    text-decoration: none;
+    color: orangered;
+
+}
+.icon_options{
+    font-size: 2rem;
+    text-align: center;
+    word-spacing: 10px;
+}
+.button{
+    margin-top: 100px;
+    border: 2px solid white;
+    background-color: whitesmoke;
+    border-radius: 0.5rem;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    box-shadow: 1px 1px 10px black;
+}
+.line{
+    border: 2px solid whitesmoke;
+    margin-top: 0.1rem;
+    margin-bottom: 2rem;
+    margin-left: 30%;
+    margin-right: 30%;
+    display: flex;
+}
